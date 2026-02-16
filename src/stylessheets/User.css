@@ -94,4 +94,7 @@
                 height: 300px;
             }
         }
-    
+          .resplandor{
+            box-shadow: 2px 2px 15px 8px plum;
+            margin: 25px 0;
+           }

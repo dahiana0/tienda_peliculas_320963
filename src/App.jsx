@@ -12,9 +12,9 @@ export const App = () => {
     <button>Enviar</button>
     
     <h1>Tarjeta de Usuario</h1>
-    <User image="BART.jpeg" nombre="Rosalba"  estado="Viva"/>
-    <User image="GWE.jpeg" nombre=" Marisol"  estado="Muerta"/>
-    <User image="MR.jpeg" nombre="Alberto"  estado="Vivo"/>
+    <User  image="BART.jpeg" nombre="Rosalba"  estado="Viva"/>
+    <User  image="GWE.jpeg" nombre=" Marisol"  estado="Muerta"/>
+    <User  image="MR.jpeg" nombre="Alberto"  estado="Vivo"/>
 
 
     
